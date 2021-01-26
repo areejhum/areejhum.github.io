@@ -7,8 +7,24 @@ _______________________________
 
 ## Projects 
 
-Vist..
+Visit..
 [Evection Predection](https://mercygriffin.github.io/EvictionPrediction/dashboard.html)
 
 <img src="image/evection.PNG">
+
+-------------------------------
+
+## Projects
+
+Visit
+
+[Unempoyled in Kansas]()
+
+<img src="image/pover5.PNG">
+
+<img src="image/rate.PNG">
+
+____________
+
+
 
