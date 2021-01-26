@@ -7,7 +7,7 @@ _______________________________
 
 ## Projects 
 
-## Vist
+Vist..
 [Evection Predection](https://mercygriffin.github.io/EvictionPrediction/dashboard.html)
 
 <img src="image/evection.PNG">
