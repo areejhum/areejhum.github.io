@@ -8,5 +8,5 @@ _______________________________
 ## Projects 
 
 [Evection Predection](https://mercygriffin.github.io/EvictionPrediction/dashboard.html)
-<img src="images/evection.PNG?raw=true"/>
+<img src="images/evection.PNG">
 
